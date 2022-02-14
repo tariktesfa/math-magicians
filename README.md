@@ -14,11 +14,13 @@
 
 ## Getting Started
 
-- To get a local copy up and running follow these simple example steps.
-clone the repository by running git clone `https://github.com/tariktesfa/math-magicians.git`
-navigate to the folder cd math-magicians
-Install packages by running `npm install`
-Run the app by running `npm start`
+To get a local copy up and running follow these simple example steps.
+
+- Clone the repository by running git clone `https://github.com/tariktesfa/math-magicians.git`
+- Navigate to the folder cd math-magicians
+- Install packages by running `npm install`
+- Run the app by running `npm start`
+
 ## Author
 
 👤 **Tarikwa Tesfa**
