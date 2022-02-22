@@ -1,0 +1,24 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 0;
+}
+
+nav ul {
+  display: flex;
+  gap: 2rem;
+  list-style: none;
+}
+
+nav li a {
+  border-bottom: 2px solid #fff;
+}
+
+nav li a:hover {
+  border-color: #000;
+}
+
+nav li a.active {
+  border-color: #f5913e;
+}
