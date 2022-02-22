@@ -1,3 +1,12 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.text {
+  padding: 55px;
+}
+
 .calculator {
   position: absolute;
   background-color: #a1a1a1;

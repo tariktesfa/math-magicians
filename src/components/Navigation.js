@@ -1,8 +1,8 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import './Nav.css';
+import './Navigation.css';
 
-const Nav = () => (
+const Navigation = () => (
   <nav>
     <h1>Math Magicians</h1>
     <ul>
@@ -34,4 +34,4 @@ const Nav = () => (
   </nav>
 );
 
-export default Nav;
+export default Navigation;

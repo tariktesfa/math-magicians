@@ -1,5 +1,9 @@
+* {
+  margin: 0;
+  top: 0;
+}
+
 .app {
-  padding: 0 1rem;
   font-family: Helvetica, sans-serif;
 }
 

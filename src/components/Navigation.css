@@ -2,7 +2,8 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem 0;
+  background-color: rgb(250, 245, 245);
+  padding: 20px 50px;
 }
 
 nav ul {
@@ -12,13 +13,17 @@ nav ul {
 }
 
 nav li a {
-  border-bottom: 2px solid #fff;
+  border: none;
+  padding: 10px;
+  text-decoration: none;
+  color: #000;
+  font-size: 20px;
 }
 
 nav li a:hover {
-  border-color: #000;
+  color: #f5913e;
 }
 
 nav li a.active {
-  border-color: #f5913e;
+  color: #d8d0ca;
 }
