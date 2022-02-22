@@ -7,7 +7,8 @@
 
 ## Live Demo
 
-[Live Demo]
+[Live Demo](https://happy-aryabhata-a349fd.netlify.app/)
+
 ## Built With
 
 - React
