@@ -19,9 +19,12 @@ const Calculator = () => {
     .map((keys) => <button type="button" className="button" key={keys} id={keys} onClick={handleClick}>{keys}</button>);
 
   return (
-    <div className="calculator">
-      <div className="display">{display}</div>
-      <div className="button-keys">{keyArray}</div>
+    <div className="container">
+      <div className="text"><h3>Let us do some Maths!!</h3></div>
+      <div className="calculator">
+        <div className="display">{display}</div>
+        <div className="button-keys">{keyArray}</div>
+      </div>
     </div>
   );
 };
