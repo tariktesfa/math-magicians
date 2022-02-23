@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 import './Navigation.css';
 
 const Navigation = () => (
-  <nav>
+  <nav data-testid="navbar">
     <h1>Math Magicians</h1>
     <ul>
       <li>

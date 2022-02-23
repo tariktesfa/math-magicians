@@ -1,0 +1,259 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`run test for the calculator component test to render snapshot for calculator 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="text"
+  >
+    <h3>
+      Let us do some Maths!!
+    </h3>
+  </div>
+  <div
+    className="calculator"
+  >
+    <div
+      className="display"
+      data-testid="display"
+    >
+      0 
+    </div>
+    <div
+      className="button-keys"
+    >
+      <button
+        className="button"
+        data-testid="AC"
+        id="AC"
+        onClick={[Function]}
+        type="button"
+      >
+        AC
+      </button>
+      <button
+        className="button"
+        data-testid="+/-"
+        id="+/-"
+        onClick={[Function]}
+        type="button"
+      >
+        +/-
+      </button>
+      <button
+        className="button"
+        data-testid="%"
+        id="%"
+        onClick={[Function]}
+        type="button"
+      >
+        %
+      </button>
+      <button
+        className="button"
+        data-testid="÷"
+        id="÷"
+        onClick={[Function]}
+        type="button"
+      >
+        ÷
+      </button>
+      <button
+        className="button"
+        data-testid={7}
+        id={7}
+        onClick={[Function]}
+        type="button"
+      >
+        7
+      </button>
+      <button
+        className="button"
+        data-testid={8}
+        id={8}
+        onClick={[Function]}
+        type="button"
+      >
+        8
+      </button>
+      <button
+        className="button"
+        data-testid={9}
+        id={9}
+        onClick={[Function]}
+        type="button"
+      >
+        9
+      </button>
+      <button
+        className="button"
+        data-testid="x"
+        id="x"
+        onClick={[Function]}
+        type="button"
+      >
+        x
+      </button>
+      <button
+        className="button"
+        data-testid={4}
+        id={4}
+        onClick={[Function]}
+        type="button"
+      >
+        4
+      </button>
+      <button
+        className="button"
+        data-testid={5}
+        id={5}
+        onClick={[Function]}
+        type="button"
+      >
+        5
+      </button>
+      <button
+        className="button"
+        data-testid={6}
+        id={6}
+        onClick={[Function]}
+        type="button"
+      >
+        6
+      </button>
+      <button
+        className="button"
+        data-testid="-"
+        id="-"
+        onClick={[Function]}
+        type="button"
+      >
+        -
+      </button>
+      <button
+        className="button"
+        data-testid={1}
+        id={1}
+        onClick={[Function]}
+        type="button"
+      >
+        1
+      </button>
+      <button
+        className="button"
+        data-testid={2}
+        id={2}
+        onClick={[Function]}
+        type="button"
+      >
+        2
+      </button>
+      <button
+        className="button"
+        data-testid={3}
+        id={3}
+        onClick={[Function]}
+        type="button"
+      >
+        3
+      </button>
+      <button
+        className="button"
+        data-testid="+"
+        id="+"
+        onClick={[Function]}
+        type="button"
+      >
+        +
+      </button>
+      <button
+        className="button"
+        data-testid={0}
+        id={0}
+        onClick={[Function]}
+        type="button"
+      >
+        0
+      </button>
+      <button
+        className="button"
+        data-testid="."
+        id="."
+        onClick={[Function]}
+        type="button"
+      >
+        .
+      </button>
+      <button
+        className="button"
+        data-testid="="
+        id="="
+        onClick={[Function]}
+        type="button"
+      >
+        =
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`run test to render the navigation test navbar snapshot 1`] = `
+<nav
+  data-testid="navbar"
+>
+  <h1>
+    Math Magicians
+  </h1>
+  <ul>
+    <li>
+      <a
+        aria-current="page"
+        className="active"
+        href="/"
+        onClick={[Function]}
+      >
+        Home
+      </a>
+    </li>
+    <li>
+      <a
+        className=""
+        href="/calculator"
+        onClick={[Function]}
+      >
+        Calculator
+      </a>
+    </li>
+    <li>
+      <a
+        className=""
+        href="/quote"
+        onClick={[Function]}
+      >
+        Quotes
+      </a>
+    </li>
+  </ul>
+</nav>
+`;
+
+exports[`should render the test for Home test render snapshot for home page 1`] = `
+<section
+  className="home"
+  data-testid="home-page"
+>
+  <h4>
+    Welcome to Math Magicians!
+  </h4>
+  <br />
+  <p>
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates eos deleniti, ex amet adipisci eveniet, optio reiciendis velit iusto fugiat placeat sunt, omnis error atque. Quis officiis sit ad ratione.
+  </p>
+  <br />
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis nisi perferendis, tenetur tempore corrupti exercitationem velit, repellendus nulla quibusdam voluptatibus fugit doloribus magni eos beatae officiis cum aspernatur dolore autem?
+  </p>
+</section>
+`;
