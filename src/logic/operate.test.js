@@ -11,7 +11,7 @@ describe('Testing the calculator operations', () => {
     expect(operate(obj.x[1], obj.y[2], obj.operate[0])).toEqual('3');
   });
 
-  test('minus x and y to equal ', () => {
+  test('minus x and y to equal -1', () => {
     expect(operate(obj.x[1], obj.y[2], obj.operate[1])).toEqual('-1');
   });
 
