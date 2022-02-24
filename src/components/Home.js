@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Home = () => (
-  <section className="home">
+  <section className="home" data-testid="home-page">
     <h4>Welcome to Math Magicians!</h4>
     <br />
     <p>
