@@ -7,7 +7,9 @@
 
 ## Live Demo
 
-[Live Demo](https://happy-aryabhata-a349fd.netlify.app/)
+[Live Demo on Netlify](https://happy-aryabhata-a349fd.netlify.app/)
+
+[Live Demo on Heroku](https://math-m.herokuapp.com/)
 
 ## Built With
 
